@@ -14,7 +14,7 @@ const Projects = () => {
       title: "SongBird",
       description: "Music recommendation platform aggregating data from multiple streaming services with content-based recommendation engine.",
       technologies: ["React", "Django", "REST APIs", "PostgreSQL", "AWS"],
-      github: "https://github.com/marnunrey2/TFG-songbird",
+      github: "https://github.com/marnunrey2/TFG-Songbird",
       featured: true,
       details: [
         "Designed and developed the entire frontend with React: charts, search, lyrics, artist data, and user dashboards.",
@@ -28,7 +28,7 @@ const Projects = () => {
       title: "Gender ID via Handwriting",
       description: "AI model predicting writer gender from handwriting samples. Achieved ~70% accuracy using image processing and ML.",
       technologies: ["Python", "OpenCV", "scikit-learn", "Image Processing", "Artificial Intelligence", "Machine Learning"],
-      github: "https://github.com/marnunrey2/PIC-Identificacion-genero",
+      github: "https://github.com/marnunrey2/Gender-ID-via-Handwriting",
       details: [
         "Preprocessed handwritten image samples using OpenCV to extract character features.",
         "Designed and implemented feature extraction pipelines.",
@@ -54,7 +54,7 @@ const Projects = () => {
       title: "Decide Voting Platform",
       description: "A full election management and secure voting system.",
       technologies: ["React", "Django", "REST API", "PostgreSQL", "Authentication"],
-      github: "https://github.com/marnunrey2/decide-marnunrey2",
+      github: "https://github.com/marnunrey2/Decide-Voting-Platform",
       details: [
         "Built key backend models and API endpoints using Django REST Framework.",
         "Integrated PostgreSQL database for voter and election management.",
@@ -79,6 +79,7 @@ const Projects = () => {
       title: "Python for Analytics Project",
       description: "A data analytics final project completed in the USA.",
       technologies: ["Python", "Pandas", "GeoPandas", "Matplotlib", "Folium", "Data Analysis"],
+      github: "https://github.com/marnunrey2/Python-for-analytics",
       details: [
         "Collected, cleaned, and transformed US Census datasets related to Spanish-speaking populations.",
         "Used Python (Pandas, GeoPandas, Matplotlib, Folium) to generate visual geographic analyses by state, county, and city.",
@@ -90,6 +91,7 @@ const Projects = () => {
       title: "Cosmetics E-Commerce Platform",
       description: "E-commerce website with appointments and Stripe payments.",
       technologies: ["React", "Stripe", "REST API", "E-commerce"],
+      github: "https://github.com/marnunrey2/Cosmetics-E-Commerce-Platform",
       details: [
         "Built frontend pages for product display, shopping cart, checkout, and appointment booking using React.",
         "Integrated Stripe payment gateway for secure online transactions.",
@@ -102,7 +104,7 @@ const Projects = () => {
       title: "Tarot Web App",
       description: "API-based tarot card generator. Features daily draws, spreads and interactive games.",
       technologies: ["Python", "Java", "HTML", "REST API"],
-      github: "https://github.com/marnunrey2/Tarot1",
+      github: "https://github.com/marnunrey2/Tarot",
       details: [
         "Designed and implemented a REST API in Python to simulate tarot card draws (daily, general, and card-specific queries).",
         "Developed logic for multiple card layouts and user interactions.",
